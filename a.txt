@@ -1,0 +1,1 @@
+This is the content of file a.txt for the homework assignment.
