@@ -1,1 +1,3 @@
 This is the content of file a.txt for the homework assignment.
+added another file for C4
+adding line for c6
